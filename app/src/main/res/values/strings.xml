@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BNI</string>
+    <string name="something_went_wrong_while_retrieving_information">something_went_wrong_while_retrieving_information</string>
+</resources>
